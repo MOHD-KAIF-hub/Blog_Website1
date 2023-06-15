@@ -1,0 +1,34 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f76c6c;
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    text-align: center;
+    text-shadow: 3px 2px #f8e9a1;
+}
+.row{
+    margin-top: 50px;
+}
+.row .segment{
+    background-color:#f8e9a1;
+    height:60px;
+}
+.row .dropdown .btn{
+   width: 20rem;
+   height:50px;
+   margin-top: 5px;
+   font-size: large;
+}
+.row .dropdown-menu{
+    width:18rem;
+    background-color: #f8e9a1;
+}
+.row .dropdown-menu li a{
+    height: 35px;
+}
